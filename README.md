@@ -1,4 +1,4 @@
-# Assignment 02 - Makefiles (200)
+# Homework 02 - Makefiles (200)
 
 This assignment will need to follow the [Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
